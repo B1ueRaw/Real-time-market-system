@@ -4,10 +4,7 @@ Project Members: Sohee Kim, Junyi Wang, Weicheng Wang, Alec DiBiase
 
 ## DESCRIPTION
 A simple GUI program implements a marketplace application with two types of users: customer and seller.
-## SUBMISSIONS
-Sohee Kim - Submitted all the code on Vocareum<br/>
-Sohee Kim - Submitted the report to Brightspace<br/>
-Junyi Wang - Submitted the presentation to Brightspace<br/>
+
 ## INSTRUCTION
 
 ### Customer.java
